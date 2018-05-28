@@ -1,2 +1,3 @@
 # hello-world
-Hello World Repository for learninig
+Hello World Repository
+This is a test repository created for learnning the basics of Git, and using Github.
