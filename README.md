@@ -7,3 +7,5 @@ I am making changes to the read me file of the test repository, the objective is
 Changes made to master.
 
 Changes made in Visual Studio Code, outside of GitHub.
+
+changes  made in test-branch3 on local machine
